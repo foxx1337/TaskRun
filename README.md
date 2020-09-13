@@ -11,4 +11,4 @@ This is a simpler, GUI version of `schtasks.exe`.
 Very useful for running programs directly elevated, for example for
 Process Explorer:
 
-![Task Scheduler](./doc/Task Scheduler.png)
+![Task Scheduler](./doc/Task%20Scheduler.png)
