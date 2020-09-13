@@ -30,7 +30,6 @@ namespace TaskRun
 
                 foreach (var taskSpec in args)
                 {
-                    MessageBox.Show(taskSpec);
                     var task = taskService.FindTask(taskSpec);
                     task?.Run();
                 }
